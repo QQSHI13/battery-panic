@@ -100,3 +100,13 @@ After each level, the game reveals **actual battery-saving tips** you can use in
 **Made with ❤️ by QQ (13岁开发者)**
 
 *Learn efficiency while having fun!*
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=QQSHI13%2Fbattery-panic&type=date&legend=top-left">
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=QQSHI13/battery-panic&type=date&theme=dark&legend=top-left" />
+ <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=QQSHI13/battery-panic&type=date&legend=top-left" />
+ <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=QQSHI13/battery-panic&type=date&legend=top-left" />
+ </picture>
+</a>
